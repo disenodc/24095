@@ -1,0 +1,26 @@
+# Lista de elementos a ignorar
+
+# Ignorar un archivo
+
+nombrearchivo
+
+.DS_Store
+
+nombrecarpeta/nombrearchivo
+
+# ignorar carpeta
+
+/nombrecarpeta
+
+# ignorar subcarpeta 
+
+nombrecarpeta/subcarpeta
+
+
+# ignorar grupos de archivos
+
+*.gif
+
+*.txt
+
+*.js
